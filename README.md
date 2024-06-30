@@ -2,8 +2,7 @@
 - 👀 I’m interested in the world of blockchain and web technology.
 - 🌱 I’m currently learning Rust and Solana.
 - 💞️ I’m looking to collaborate on blockchain.
-- 📫 How to reach me abhinavbhardwaj711@gmil.com.
-- 😄 Pronouns: He.
+- 📫 How to reach me abhinavbhardwaj711@gmail.com.
 - ⚡ Fun fact: I want to learn as much technology as humanly possible.
 
 <!---
